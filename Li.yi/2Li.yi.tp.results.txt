@@ -1,0 +1,39 @@
+Column: 3
+Axis: Z
+Fallback Frames: 0
+
+Inflection point type	Point1	Point2	Point3	Point4	Point5	Point6	Point7	Point8	Point9
+Crests	75	97	122	144	167	191	216	238	260
+Troughs	86	109	133	156	180	202	227	250	
+
+Crest Points	Coordinate (x)	Coordinate (y)	Coordinate (z)
+Point1	8.437133	-6.69149	8.24872
+Point2	8.394024	-6.584656	8.150364
+Point3	8.473318	-6.635438	8.215742
+Point4	8.610686	-6.804218	8.168011
+Point5	8.69599	-6.818771	8.075234
+Point6	8.678772	-6.883258	8.119188
+Point7	8.728957	-6.802189	8.251557
+Point8	8.839773	-6.780291	8.604056
+Point9	8.688079	-6.76377	8.425349
+
+Trough Points	Coordinate (x)	Coordinate (y)	Coordinate (z)
+Point1	9.024119	-6.635707	6.753079
+Point2	9.036897	-6.570598	6.664466
+Point3	9.025496	-6.612523	6.78165
+Point4	9.276602	-6.729381	6.707007
+Point5	9.317692	-6.784553	6.577677
+Point6	9.381112	-6.734208	6.491955
+Point7	9.337267	-6.764164	7.05217
+Point8	9.391492	-6.753934	6.947958
+
+Parameters	T1 - Amplitude	T1 - Velocity	T2 - Amplitude	T2 - Velocity
+thumb tip right X	0.6165	3.1918	0.5851	3.0852
+thumb tip right Y	0.0519	0.273	0.0737	0.386
+thumb tip right Z	1.4821	7.6657	1.5042	7.8856
+
+Finger Points	Action 1 - Amplitude(cm)	Action 1 - Velocity(cm/s)	Action 2 - Amplitude(cm)	Action 2 - Velocity(cm/s)
+thumb tip	1.61	8.329	1.6188	8.4712
+
+Action 1 Time(s)	Action 2 Time(s)	Action 1 Variance	Action 2 Variance	Crest Radius(CR)(cm)	Trough Radius(TR)(cm)
+0.221	0.2186	0.0116	0.0204	0.4189	0.3322
