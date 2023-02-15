@@ -10,4 +10,4 @@ A total 50 manual acupuncture operation data is included in this dataset, and ea
 
 3. results.txt: human-identified start and end keyframes of each MA video for 8 complete operating cycles
 
-**The research paper related to this data:**
+**The research paper related to this data: [https://doi.org/10.1016/j.bspc.2023.104681](https://doi.org/10.1016/j.bspc.2023.104681)**
