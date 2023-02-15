@@ -1,0 +1,28 @@
+Column: 3
+Axis: Z
+Fallback Frames: 0
+
+Inflection point type	Point1	Point2	Point3	Point4	Point5	Point6	Point7	Point8	Point9
+Crests	64	99	124	160	190	226	260	295	326
+Troughs	80	110	143	175	210	245	277	310	
+
+Crest Points	Coordinate (x)	Coordinate (y)	Coordinate (z)
+Point1	9.078012	-4.991496	8.523126
+Point2	9.0558	-5.018928	8.5274
+Point3	8.915723	-4.955139	8.766701
+Point4	9.131946	-4.970155	8.35119
+Point5	9.060842	-4.905063	8.534963
+Point6	8.975828	-4.957348	8.651068
+Point7	9.007631	-4.816498	8.594023
+Point8	9.074857	-4.775177	8.467047
+Point9	8.992233	-4.753279	8.675865
+
+Trough Points	Coordinate (x)	Coordinate (y)	Coordinate (z)
+Point1	9.459095	-4.923045	7.308643
+Point2	9.456597	-4.889296	7.348491
+Point3	9.46709	-4.850901	7.294329
+Point4	9.507987	-4.911729	7.298277
+Point5	9.416872	-4.958343	7.4137
+Point6	9.565	-4.804278	7.254889
+Point7	9.454924	-4.854054	7.181856
+Point8	9.38604	-4.775692	7.37803
